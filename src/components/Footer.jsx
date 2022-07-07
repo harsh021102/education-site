@@ -31,57 +31,57 @@ const Footer = () => {
           <div className='flex flex-col items-start justify-start font-outfit sm:mt-12'>
             <h1 className='text-normal font-normal text-slate-900'>Company</h1>
             <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
-              <li><a href="#">About</a></li>
-              <li><a href="#">Career</a></li>
-              <li><a href="#">Blogs</a></li>
-              <li><a href="#">Privacy</a></li>
-              <li><a href="#">Terms and Conditions</a></li>
+              <li className="cursor-pointer">About</li>
+              <li className="cursor-pointer">Career</li>
+              <li className="cursor-pointer">Blogs</li>
+              <li className="cursor-pointer">Privacy</li>
+              <li className="cursor-pointer">Terms and Conditions</li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit sm:mt-12'>
             <h1 className='text-normal font-normal text-slate-800'>Help & Support</h1>
             <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
-              <li><a href="#">User Guidelines</a></li>
-              <li><a href="#">Site Map</a></li>
-              <li><a href="#">Refund Policy</a></li>
-              <li><a href="#">Takedown Policy</a></li>
+              <li className="cursor-pointer">User Guidelines</li>
+              <li className="cursor-pointer">Site Map</li>
+              <li className="cursor-pointer">Refund Policy</li>
+              <li className="cursor-pointer">Takedown Policy</li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit sm:mt-12'>
             <h1 className='text-normal font-normal text-slate-800'>Popular goals</h1>
             <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
-              <li><a href="#">IIT JEE</a></li>
-              <li><a href="#">SSC</a></li>
-              <li><a href="#">SSC</a></li>
-              <li><a href="#">NEET</a></li>
+              <li className="cursor-pointer text-underline">IIT JEE</li>
+              <li className="cursor-pointer">SSC</li>
+              <li className="cursor-pointer">SSC</li>
+              <li className="cursor-pointer">NEET</li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit'>
             <h1 className='text-normal font-normal text-slate-800'>Products</h1>
             <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
-              <li><a href="#">Learner app</a></li>
-              <li><a href="#">Learner app</a>Learner app</li>
-              <li><a href="#">Parent app</a></li>
+              <li className="cursor-pointer">Learner</li>
+              <li className="cursor-pointer">LearnerLearner app</li>
+              <li className="cursor-pointer">Parent</li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit '>
             <h1 className='text-normal font-normal text-slate-800'>Trending exams</h1>
             <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
-              <li><a href="#">Gate</a></li>
-              <li><a href="#">NTA UGC NET</a></li>
-              <li><a href="#">CAT</a></li>
-              <li><a href="#">CA</a></li>
-              <li><a href="#">Bank Exams</a></li>
+              <li className="cursor-pointer">Gate</li>
+              <li className="cursor-pointer">NTA UGC NET</li>
+              <li className="cursor-pointer">CAT</li>
+              <li className="cursor-pointer">CA</li>
+              <li className="cursor-pointer">Bank Exams</li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit '>
             <h1 className='text-normal font-normal text-slate-800'>Study material</h1>
             <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
-              <li><a href="#">UPSC Study Material</a></li>
-              <li><a href="#">NEET UG Study Material</a></li>
-              <li><a href="#">CA Foundation Study Material</a></li>
-              <li><a href="#">JEE Study Material</a></li>
-              <li><a href="#">SSC Study Material</a></li>
+              <li className="cursor-pointer">UPSC Study Material</li>
+              <li className="cursor-pointer">NEET UG Study Material</li>
+              <li className="cursor-pointer">CA Foundation Study Material</li>
+              <li className="cursor-pointer">JEE Study Material</li>
+              <li className="cursor-pointer">SSC Study Material</li>
             </ul>
           </div>
         </div>
