@@ -19,7 +19,7 @@ const Footer = () => {
             <p className='font-bold text-slate-800 w-5/6 md:w-10/12 font-outfit text-md md:text-lg lg:text-xl mx-auto'>Start your preperation?</p>
             <p className='font -semibold text-slate-600 w-5/6 md:w-10/12 font-outfit text-base md:text-md lg:text-lg mx-auto'>Call us and we will answer all your questions about learning on Teachpoint</p>
             <p className='font-semibold text-slate-800 w-5/6 md:w-10/12 font-outfit text-sm md:text-md lg:text-xl mx-auto mt-4 '>Call +91XXXXXXXXXX</p>
-            <div className='flex gap-4 font-semibold text-slate-800 w-5/6 md:w-10/12 font-outfit text-md md:text-lg lg:text-xl mx-auto mt-4 cursor-pointer justify-center items-center'>
+            <div className='flex gap-4 font-semibold text-slate-800 w-5/6 md:w-10/12 font-outfit text-md md:text-lg lg:text-xl mx-auto mt-4 cursor-pointer justify-start items-center'>
               <BsFacebook className='text-blue-600'/>
               <BsLinkedin className='text-blue-500'/>
               <BsInstagram className='text-pink-600'/>
