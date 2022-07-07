@@ -30,58 +30,58 @@ const Footer = () => {
           </div>
           <div className='flex flex-col items-start justify-start font-outfit sm:mt-12'>
             <h1 className='text-normal font-normal text-slate-900'>Company</h1>
-            <ul className='flex gap-2 flex-col text-slate-500 cursor-pointer mt-2'>
-              <li>About</li>
-              <li>Career</li>
-              <li>Blogs</li>
-              <li>Privacy</li>
-              <li>Terms and Conditions</li>
+            <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Career</a></li>
+              <li><a href="#">Blogs</a></li>
+              <li><a href="#">Privacy</a></li>
+              <li><a href="#">Terms and Conditions</a></li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit sm:mt-12'>
             <h1 className='text-normal font-normal text-slate-800'>Help & Support</h1>
-            <ul className='flex gap-2 flex-col text-slate-500 cursor-pointer mt-2'>
-              <li>User Guidelines</li>
-              <li>Site Map</li>
-              <li>Refund Policy</li>
-              <li>Takedown Policy</li>
+            <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
+              <li><a href="#">User Guidelines</a></li>
+              <li><a href="#">Site Map</a></li>
+              <li><a href="#">Refund Policy</a></li>
+              <li><a href="#">Takedown Policy</a></li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit sm:mt-12'>
             <h1 className='text-normal font-normal text-slate-800'>Popular goals</h1>
-            <ul className='flex gap-2 flex-col text-slate-500 cursor-pointer mt-2'>
-              <li>IIT JEE</li>
-              <li>UPSC</li>
-              <li>SSC</li>
-              <li>NEET</li>
+            <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
+              <li><a href="#">IIT JEE</a></li>
+              <li><a href="#">SSC</a></li>
+              <li><a href="#">SSC</a></li>
+              <li><a href="#">NEET</a></li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit'>
             <h1 className='text-normal font-normal text-slate-800'>Products</h1>
-            <ul className='flex gap-2 flex-col text-slate-500 cursor-pointer mt-2'>
-              <li>Learner app</li>
-              <li>Educator app</li>
-              <li>Parent app</li>
+            <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
+              <li><a href="#">Learner app</a></li>
+              <li><a href="#">Learner app</a>Learner app</li>
+              <li><a href="#">Parent app</a></li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit '>
             <h1 className='text-normal font-normal text-slate-800'>Trending exams</h1>
-            <ul className='flex gap-2 flex-col text-slate-500 cursor-pointer mt-2'>
-              <li>Gate</li>
-              <li>NTA UGC NET</li>
-              <li>CAT</li>
-              <li>CA</li>
-              <li>Bank Exams</li>
+            <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
+              <li><a href="#">Gate</a></li>
+              <li><a href="#">NTA UGC NET</a></li>
+              <li><a href="#">CAT</a></li>
+              <li><a href="#">CA</a></li>
+              <li><a href="#">Bank Exams</a></li>
             </ul>
           </div>
           <div className='flex flex-col items-start justify-start font-outfit '>
             <h1 className='text-normal font-normal text-slate-800'>Study material</h1>
-            <ul className='flex gap-2 flex-col text-slate-500 cursor-pointer mt-2'>
-              <li>UPSC Study Material</li>
-              <li>NEET UG Study Material</li>
-              <li>CA Foundation Study Material</li>
-              <li>JEE Study Material</li>
-              <li>SSC Study Material</li>
+            <ul className='flex gap-2 flex-col text-slate-500 mt-2'>
+              <li><a href="#">UPSC Study Material</a></li>
+              <li><a href="#">NEET UG Study Material</a></li>
+              <li><a href="#">CA Foundation Study Material</a></li>
+              <li><a href="#">JEE Study Material</a></li>
+              <li><a href="#">SSC Study Material</a></li>
             </ul>
           </div>
         </div>
